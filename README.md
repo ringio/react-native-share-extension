@@ -2,6 +2,11 @@
 
 Forked so we can maintain and improve it (forked from https://github.com/alinz/react-native-share-extension)
 
+## Changes
+- Migrated it to work as a Pod Module (so we don't have to do the manual installation the original library needs since that installation is not working in the latest React Native versions)
+- In the future I will update this readme with the new installation system we are doing in the MVP
+
+## About the module
 This is a helper module which brings react native as an engine to drive share extension for your app.
 
 <p align="center">
