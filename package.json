@@ -1,8 +1,9 @@
 {
   "name": "react-native-share-extension",
   "version": "2.0.0",
-  "description": "share extension using react-native for both ios and android",
+  "description": "Share extension using react-native for both ios and android",
   "main": "lib/index.js",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
